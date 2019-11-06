@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hardware Repair",
+    "description": "This lorem ipsum generator is made for all the webdesigners, designers, webmasters and others who need lorem ipsum. Generator is made the way that everyone can use it, but especially for projects which need html markup.\n\n",
+    "price_range":"$200 - $400"
+  },
+  {
+    "name": "Virus Removal",
+    "description": "This lorem ipsum generator is made for all the webdesigners, designers, webmasters and others who need lorem ipsum. Generator is made the way that everyone can use it, but especially for projects which need html markup.\n\n",
+    "price_range": "$400 - $500"
+  },
+  {
+    "name": "Pc Tune Up",
+    "description": "This lorem ipsum generator is made for all the webdesigners, designers, webmasters and others who need lorem ipsum. Generator is made the way that everyone can use it, but especially for projects which need html markup.\n\n",
+    "price_range": "$100 - $200"
+  },
+  {
+    "name": "Network Services",
+    "description": "This lorem ipsum generator is made for all the webdesigners, designers, webmasters and others who need lorem ipsum. Generator is made the way that everyone can use it, but especially for projects which need html markup.\n\n",
+    "price_range": "$30 - $250"
+  }
+]
